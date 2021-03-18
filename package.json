@@ -1,0 +1,16 @@
+{
+  "name": "r8limit",
+  "version": "0.0.1",
+  "description": "Simple Rate Limiter with waiting for availibility, metrics, and events.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:alexp1917/r8limit.git"
+  },
+  "keywords": [],
+  "author": "Alexander Pavlovich <alexpimt1917@gmail.com>",
+  "license": "GPL-3.0-or-later"
+}
